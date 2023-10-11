@@ -1,0 +1,13 @@
+{
+	"require": {
+		"phpmailer/phpmailer": "^6.8"
+	},
+	"autoload":{
+		"psr-4":{
+			"Controllers\\":"Controllers/",
+			"Models\\":"Models/",
+			"Core\\":"Core/",
+			"Helpers\\":"Helpers/"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "name": "paymeebrasil/paymee-php-sdk",
+    "authors": [
+        {
+            "name": "Bruno Maranhão",
+            "email": "brunom@paymee.com.br"
+        },
+        {
+            "name": "Gustavo Andrade Ferreira",
+            "email": "gustavo.andrade@maxmilhas.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PayMee\\": "src/PayMee"
+        }
+    }
+}
